@@ -1,8 +1,6 @@
 # Programming_For_DataScience
 Personal repository for Udacity Programming for Data Science for Enterprise Nanodegree Program
-# Programming_for_DataScience_for_Nanodegree
 
-This repository contains projects for Udacity Programming For Data Science.
 
 ## Project 1
 
