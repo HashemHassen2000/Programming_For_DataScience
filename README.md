@@ -12,7 +12,7 @@ For the presentation component, the student had to create four slides, and each 
 ### Project Submission
 
 [Project Submission](https://github.com/HashemHassen2000/Programming_For_DataScience.git).
-You can find the queries [here](https://github.com/decarvalhohenrique/programming-for-data-science-nanodegree/blob/master/1st-project).
+You can find the queries [here](https://github.com/HashemHassen2000/Programming_For_DataScience/tree/master/1st_project).
 
 ### Question Sets
 
