@@ -57,4 +57,4 @@ This project consisted in using Git and GitHub with a simulated workflow to refa
 
 The Project Submission consisted in the filling of a template with all the Git commands used to perform the requested tasks.
 
-[Project Submission](https://drive.google.com/open?id=10ZndqTVL3iDHoGx2lP8Rr7BmOK8noDh-).
+
