@@ -1,7 +1,6 @@
 # Programming_For_DataScience
 Personal repository for Udacity Programming for Data Science for Enterprise Nanodegree Program
 
-
 ## Project 1
 
 ### Overview
@@ -9,14 +8,16 @@ Personal repository for Udacity Programming for Data Science for Enterprise Nano
 This project consisted in the exploration of a provided database movie rentals in which the student had to run SQL queries and build visualizations to showcase the output of the student's queries. 
 
 For the presentation component, the student had to create four slides, and each should have (a) a question of interest, (b) a supporting SQL query needed to answer the question, (c) a supporting visualization created using the final data of the SQL queries that answer the questions of interest, and (d) a small summary on each slide.
+
 ### Project Submission
 
-[Project Submission](https://github.com/HashemHassen2000/Programming_For_DataScience.git).
-You can find the queries [here](https://github.com/HashemHassen2000/Programming_For_DataScience/tree/master/1st_project).
+[Project Submission](https://drive.google.com/open?id=1sfcOviwrgdNjnhghi6N4IOobMzDNGz4w).
+You can find the queries [here](https://github.com/HashemHassen2000/Programming_for_DataScience_for_Nanodegree/tree/master/1st_project).
 
 ### Question Sets
 
-A set of questions have also been provided by Udacity so that we were free to consider and include them in our Project Submission. These were solely provided for our convenience, and we were able to choose between any of the questions in these sets or none at all in your project submission.Despite having not used any of the questions provided by Udacity.
+A set of questions have also been provided by Udacity so that we were free to consider and include them in our Project Submission. These were solely provided for our convenience, and we were able to choose between any of the questions in these sets or none at all in your project submission.Despite having not used any of the questions provided by Udacity, I still chose to query each [question](https://github.com/HashemHassen2000/Programming_for_DataScience_for_Nanodegree/tree/master/1st_project/set-questions).
+
 
 ## Project 2
 
@@ -28,6 +29,8 @@ In this project, the student had to make use of Python to explore data related t
 
 The developed CLI program allows the user to explore an US bikeshare system database and retrieve statistics information from the database. The user is able filter the information by city, month and weekday, in order to visualize statistics information related to a specific subset of data. The user is also able to chose to view raw data and to sort this data by columns, in ascending or descending order.
 
+[Project Submission](https://github.com/HashemHassen2000/Programming_for_DataScience_for_Nanodegree/blob/master/2nd_project/BikeShare.py).
+
 #### Files Used
 
 The required files for running this program are: 
@@ -35,6 +38,8 @@ The required files for running this program are:
 * washington.csv
 * new_york_city.csv
 * chicago.csv
+
+You can download the files [here](https://drive.google.com/open?id=1sfcOviwrgdNjnhghi6N4IOobMzDNGz4w).
 
 #### Requirements
 
@@ -51,3 +56,5 @@ This project consisted in using Git and GitHub with a simulated workflow to refa
 ### Project Submission
 
 The Project Submission consisted in the filling of a template with all the Git commands used to perform the requested tasks.
+
+[Project Submission](https://drive.google.com/open?id=10ZndqTVL3iDHoGx2lP8Rr7BmOK8noDh-).
